@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chemical Engineer with a MSc in Petroleum Engineering.</h1>
-<h3 align="center">A Chemical Engineer with a MSc in Petroleum Engineering.</h3>
+<h1 align="center">Hi! 👋</h1>
+<h3 align="center">I am Chemical Engineer with a MSc in Petroleum Engineering.</h3>
 
 - 🌱 I’m currently learning **C# and C++**
 
