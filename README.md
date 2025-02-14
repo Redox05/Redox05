@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C# and C++**
 
-- ⚡ Fun fact **I am an open waters swimer.**
+- ⚡ Fun fact **I am an open waters swimmer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
